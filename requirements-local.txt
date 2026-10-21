@@ -1,0 +1,3 @@
+# For running locally (preview_frontend.py). On HF Spaces, gradio comes from sdk_version in README.md.
+-r requirements.txt
+gradio==6.29.0
